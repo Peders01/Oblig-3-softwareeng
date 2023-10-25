@@ -14,5 +14,5 @@ print(f'1900 - {is_leap_year(1900)}')
 print(f'2000 - {is_leap_year(2000)}')
 print(f'2100 - {is_leap_year(2100)}')
 print(f'2200 - {is_leap_year(2200)}')
-print(f'2300 - {is_leap_year(2300)}')
+
 
